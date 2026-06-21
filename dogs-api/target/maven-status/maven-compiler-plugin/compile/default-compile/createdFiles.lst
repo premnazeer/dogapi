@@ -1,0 +1,15 @@
+com/dogs/api/dto/DogResponse.class
+com/dogs/api/dto/DogStatus.class
+com/dogs/api/controller/ReferenceDataController.class
+com/dogs/api/specification/DogSpecification.class
+com/dogs/api/dto/DogFilter.class
+com/dogs/api/dto/DogRequest.class
+com/dogs/api/dto/LeavingReason.class
+com/dogs/api/repository/DogRepository.class
+com/dogs/api/entity/DogEntity.class
+com/dogs/api/DogsApiApplication.class
+com/dogs/api/mapper/DogMapper.class
+com/dogs/api/model/Dog.class
+com/dogs/api/service/DogService.class
+com/dogs/api/dto/Gender.class
+com/dogs/api/controller/DogController.class
